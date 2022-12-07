@@ -3,7 +3,7 @@
 In this tutorial we can see who we can use controllers and IActionResult as responses in our application.
 
 
-## Starting Controller is HomeController -> Structure of Controllers, Routing Types of return Results.
+## Starting Controller is HomeController -> Structure of Controllers, Routing, Types of return Results.
 You can see the controller structure and how you can use the Route directive to attach urls to methods. 
 In addition you can check the return types of the methods inside the controller
 
