@@ -1,4 +1,4 @@
-# Controllers and IAction Result Tutorial. 
+# Controllers and IActionResult Tutorial. 
 
 In this tutorial we can see who we can use controllers and IActionResult as responses in our application.
 
